@@ -4,9 +4,24 @@
 
 Welcome to the structured development workspace for **ClaimVision** (Enterprise Healthcare Claims Intelligence Dashboard). This directory is organized according to professional business intelligence project standards.
 
-![Dashboard Preview](assets/pdf_images/image_page1_11.png)
+---
+
+## 📸 Dashboard Page Previews
+
+| Page 1 | Page 2 |
+|--------|--------|
+| ![Page 1 - About / Landing](assets/page_previews/page_1.png) | ![Page 2 - Claims Overview](assets/page_previews/page_2.png) |
+
+| Page 3 | Page 4 |
+|--------|--------|
+| ![Page 3 - Patient Demographics](assets/page_previews/page_3.png) | ![Page 4 - Financial Analysis](assets/page_previews/page_4.png) |
+
+| Page 5 | Page 6 |
+|--------|--------|
+| ![Page 5 - Provider Analysis](assets/page_previews/page_5.png) | ![Page 6 - Summary](assets/page_previews/page_6.png) |
 
 ---
+
 
 ## 📁 Workspace Directory Structure
 
